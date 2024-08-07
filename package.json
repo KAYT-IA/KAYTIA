@@ -1,0 +1,25 @@
+{
+  "name": "kaytia",
+  "version": "1.0.0",
+  "description": "Chatbot con inteligencia artificial para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAYT-IA/KAYTIA.git"
+  },
+  "keywords": [
+    "chatbot",
+    "kaytia",
+    "kaytia"
+  ],
+  "author": "kingandrewyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KAYT-IA/KAYTIA/issues"
+  },
+  "homepage": "https://github.com/KAYT-IA/KAYTIA#readme"
+}
